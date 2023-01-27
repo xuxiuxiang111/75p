@@ -1,0 +1,3 @@
+on early-init
+    insmod /ds90ubxx_module.ko
+    insmod /changan_protocol_mfd.ko
